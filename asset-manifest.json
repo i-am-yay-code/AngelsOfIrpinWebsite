@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.450a9383.css",
+    "main.js": "/static/js/main.e8500dc7.js",
+    "static/js/787.62dcf4b8.chunk.js": "/static/js/787.62dcf4b8.chunk.js",
+    "static/media/logo_main.png": "/static/media/logo_main.1cb7477da2fbf136cdc2.png",
+    "static/media/item3.jpg": "/static/media/item3.53198ec6fc497215db6f.jpg",
+    "static/media/item1.jpg": "/static/media/item1.a02966a341cd088ae84c.jpg",
+    "static/media/logo_main_no_words.png": "/static/media/logo_main_no_words.b214f50b02eebf7a731f.png",
+    "static/media/item5.jpg": "/static/media/item5.7f7fe04947809f8f23b5.jpg",
+    "static/media/item2.jpg": "/static/media/item2.81a867f4d6c1c3f5afa2.jpg",
+    "static/media/item4.jpg": "/static/media/item4.d7e8a7db24bc63ba6dd2.jpg",
+    "static/media/WCK.png": "/static/media/WCK.adf21f44d41cb64c6fc7.png",
+    "static/media/Girl.png": "/static/media/Girl.06fc4f765d3e57376adc.png",
+    "static/media/qr.jpg": "/static/media/qr.0f0ac0b3e5cb4631612a.jpg",
+    "static/media/caritas.jpg": "/static/media/caritas.9fb9baece93541d8f0d8.jpg",
+    "static/media/Flowers_and_peace.png": "/static/media/Flowers_and_peace.1c63885c5e5346d39d4c.png",
+    "static/media/unicef_logo.png": "/static/media/unicef_logo.bcdf325ae523c05ab21c.png",
+    "static/media/red-cross.png": "/static/media/red-cross.0118d57b6ce2d9fe2b4e.png",
+    "static/media/MOU.png": "/static/media/MOU.91f355b4713b9d938092.png",
+    "static/media/Silpo.png": "/static/media/Silpo.743337944837f6145636.png",
+    "static/media/goodwill.png": "/static/media/goodwill.642f955c53a4c1939a3f.png",
+    "static/media/Security_Service_of_Ukraine_Emblem.png": "/static/media/Security_Service_of_Ukraine_Emblem.bfffedf639dfedd511fa.png",
+    "static/media/Emblem_of_the_Ukrainian_Armed_Forces.png": "/static/media/Emblem_of_the_Ukrainian_Armed_Forces.3e8a70fceef1ddd3deda.png",
+    "static/media/AngelsUA.png": "/static/media/AngelsUA.5a3767a436025581d67b.png",
+    "static/media/LetsHelp.webp": "/static/media/LetsHelp.5649666f6957895acbd1.webp",
+    "index.html": "/index.html",
+    "main.450a9383.css.map": "/static/css/main.450a9383.css.map",
+    "main.e8500dc7.js.map": "/static/js/main.e8500dc7.js.map",
+    "787.62dcf4b8.chunk.js.map": "/static/js/787.62dcf4b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.450a9383.css",
+    "static/js/main.e8500dc7.js"
+  ]
+}
